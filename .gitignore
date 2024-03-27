@@ -1,0 +1,6 @@
+Pipfile
+Pipfile.lock
+.pytest_cache
+.venv
+.mypy_cache
+.env
